@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- ── Homepage ── -->
+  <url>
+    <loc>https://mediashieldai.com/</loc>
+    <lastmod>2024-12-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://mediashieldai.com/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://mediashieldai.com/?lang=fr"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mediashieldai.com/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mediashieldai.com/"/>
+  </url>
+
+  <!-- ── Arabic Blog Articles ── -->
+  <url><loc>https://mediashieldai.com/blog/ar/tahqiq-manuscripts-arabic</loc><lastmod>2024-01-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://mediashieldai.com/blog/ar/digitize-arabic-manuscripts</loc><lastmod>2024-01-22</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://mediashieldai.com/blog/ar/convert-manuscripts-to-word</loc><lastmod>2024-01-29</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://mediashieldai.com/blog/ar/manuscript-digitization-morocco</loc><lastmod>2024-02-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://mediashieldai.com/blog/ar/scientific-manuscript-verification</loc><lastmod>2024-02-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://mediashieldai.com/blog/ar/ocr-arabic-manuscripts</loc><lastmod>2024-02-19</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://mediashieldai.com/blog/ar/moroccan-andalusian-manuscripts</loc><lastmod>2024-02-26</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://mediashieldai.com/blog/ar/manuscript-preservation-importance</loc><lastmod>2024-03-04</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://mediashieldai.com/blog/ar/transcription-vs-editing-guide</loc><lastmod>2024-03-11</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://mediashieldai.com/blog/ar/manuscript-footnotes-guide</loc><lastmod>2024-03-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://mediashieldai.com/blog/ar/arabic-manuscript-copying-tools</loc><lastmod>2024-03-25</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/ar/ancient-arabic-medical-manuscripts</loc><lastmod>2024-04-01</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/ar/fiqh-manuscripts-verification</loc><lastmod>2024-04-08</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/ar/digital-archiving-best-practices</loc><lastmod>2024-04-15</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/ar/gulf-manuscript-digitization</loc><lastmod>2024-04-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/ar/choosing-manuscript-service</loc><lastmod>2024-04-29</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/ar/arabic-literary-manuscripts</loc><lastmod>2024-05-06</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/ar/ai-manuscript-editing</loc><lastmod>2024-05-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/ar/sufi-manuscripts-transcription</loc><lastmod>2024-05-20</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/ar/manuscript-to-published-book</loc><lastmod>2024-05-27</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/ar/manuscript-indices-importance</loc><lastmod>2024-06-03</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/ar/arabic-manuscript-centers</loc><lastmod>2024-06-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/ar/moroccan-script-manuscripts</loc><lastmod>2024-06-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/ar/islamic-philosophy-manuscripts</loc><lastmod>2024-06-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/ar/manuscript-preservation-tips</loc><lastmod>2024-07-01</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/ar/thesis-manuscript-transcription</loc><lastmod>2024-07-08</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/ar/arab-world-digitization-projects</loc><lastmod>2024-07-15</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/ar/manuscript-terminology-glossary</loc><lastmod>2024-07-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/ar/manuscript-source-documentation</loc><lastmod>2024-07-29</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/ar/manuscripts-cultural-identity</loc><lastmod>2024-08-05</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/ar/manuscript-service-pricing</loc><lastmod>2024-08-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/ar/arabic-geographical-manuscripts</loc><lastmod>2024-08-19</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/ar/women-manuscript-scholars</loc><lastmod>2024-08-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/ar/manuscript-quality-standards</loc><lastmod>2024-09-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/ar/libraries-manuscript-preservation</loc><lastmod>2024-09-09</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/ar/islamic-math-astronomy-manuscripts</loc><lastmod>2024-09-16</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/ar/manuscript-to-searchable-pdf</loc><lastmod>2024-09-23</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/ar/academic-institutions-manuscript-services</loc><lastmod>2024-09-30</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/ar/prophetic-medicine-manuscripts</loc><lastmod>2024-10-07</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/ar/digital-decay-manuscript-preservation</loc><lastmod>2024-10-14</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/ar/international-manuscript-digitization</loc><lastmod>2024-10-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/ar/manuscript-editing-common-mistakes</loc><lastmod>2024-10-28</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/ar/anonymous-manuscripts-attribution</loc><lastmod>2024-11-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/ar/government-support-manuscript-digitization</loc><lastmod>2024-11-11</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/ar/arabic-calligraphy-manuscripts</loc><lastmod>2024-11-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/ar/moroccan-fiqh-nawazil-manuscripts</loc><lastmod>2024-11-25</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/ar/publishers-manuscript-editing-benefits</loc><lastmod>2024-12-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/ar/digital-platforms-manuscript-publishing</loc><lastmod>2024-12-09</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/ar/sufism-tariqa-manuscripts-morocco</loc><lastmod>2024-12-16</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/ar/future-manuscript-editing-digital-age</loc><lastmod>2024-12-23</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- ── French Blog Articles ── -->
+  <url><loc>https://mediashieldai.com/blog/fr/transcription-manuscrits-arabes</loc><lastmod>2024-01-10</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://mediashieldai.com/blog/fr/numerisation-manuscrits-guide</loc><lastmod>2024-01-20</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://mediashieldai.com/blog/fr/conversion-manuscrit-word</loc><lastmod>2024-01-30</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://mediashieldai.com/blog/fr/edition-scientifique-tahqiq</loc><lastmod>2024-02-08</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://mediashieldai.com/blog/fr/manuscrits-arabes-maroc-tresor</loc><lastmod>2024-02-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://mediashieldai.com/blog/fr/ocr-manuscrits-arabes-etat-art</loc><lastmod>2024-02-28</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/fr/choisir-service-transcription</loc><lastmod>2024-03-09</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/fr/preservation-numerique-manuscrits</loc><lastmod>2024-03-19</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/fr/manuscrits-andalous-maroc-espagne</loc><lastmod>2024-03-29</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/fr/manuscrits-theses-universites</loc><lastmod>2024-04-08</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/fr/alphabet-calligraphie-arabe-manuscrits</loc><lastmod>2024-04-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/fr/bibliotheques-numeriques-manuscrits</loc><lastmod>2024-04-28</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/fr/prix-tarifs-transcription-manuscrits</loc><lastmod>2024-05-08</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/fr/cooperation-internationale-numerisation</loc><lastmod>2024-05-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/fr/erreurs-courantes-transcription</loc><lastmod>2024-05-28</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/fr/manuscrits-soufis-marocains</loc><lastmod>2024-06-07</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/fr/ia-avenir-codicologie</loc><lastmod>2024-06-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/fr/manuscrits-juridiques-islamiques</loc><lastmod>2024-06-27</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/fr/manuscrits-arabes-pays-golfe</loc><lastmod>2024-07-07</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/fr/archive-publication-manuscrit-arabe</loc><lastmod>2024-07-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- ── English Blog Articles ── -->
+  <url><loc>https://mediashieldai.com/blog/en/arabic-manuscript-transcription-guide</loc><lastmod>2024-01-08</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://mediashieldai.com/blog/en/arabic-manuscript-digitization-tools</loc><lastmod>2024-01-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://mediashieldai.com/blog/en/convert-arabic-manuscripts-word</loc><lastmod>2024-01-28</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://mediashieldai.com/blog/en/scholarly-editing-tahqiq-method</loc><lastmod>2024-02-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://mediashieldai.com/blog/en/arabic-manuscripts-morocco-treasure</loc><lastmod>2024-02-17</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://mediashieldai.com/blog/en/ocr-arabic-manuscripts-capabilities</loc><lastmod>2024-02-27</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/en/choosing-manuscript-service-provider</loc><lastmod>2024-03-08</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/en/digital-preservation-arabic-manuscripts</loc><lastmod>2024-03-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/en/andalusian-arabic-manuscripts-heritage</loc><lastmod>2024-03-28</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/en/manuscripts-academic-research-theses</loc><lastmod>2024-04-07</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/en/arabic-calligraphy-historical-manuscripts</loc><lastmod>2024-04-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/en/digital-libraries-arabic-manuscripts</loc><lastmod>2024-04-27</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/en/manuscript-transcription-pricing</loc><lastmod>2024-05-07</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/en/international-collaboration-manuscript-digitization</loc><lastmod>2024-05-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/en/common-errors-arabic-transcription</loc><lastmod>2024-05-27</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/en/moroccan-sufi-manuscripts</loc><lastmod>2024-06-06</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/en/ai-future-manuscript-studies</loc><lastmod>2024-06-16</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/en/islamic-legal-manuscripts-challenges</loc><lastmod>2024-06-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/en/arabic-manuscripts-gulf-countries</loc><lastmod>2024-07-06</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://mediashieldai.com/blog/en/archive-to-publication-arabic-manuscript</loc><lastmod>2024-07-16</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+</urlset>
